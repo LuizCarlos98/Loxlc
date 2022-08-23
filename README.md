@@ -31,7 +31,7 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://open.spotify.com/playlist/5vQOpA9jzcoq0lEI4lPoQn" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luiz-carlos-54016921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
   ![Snake animation](https://github.com/Loxlc/Loxlc/blob/output/github-contribution-grid-snake.svg)
   
-    </div>
+    
