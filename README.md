@@ -1,4 +1,7 @@
 Oiee, Sou o Luiz Carlos
 
-📚 -- Estudando Analise de Sistema e Desevolvimento 
+📚 -- Estudando Front-End
+💼 -- Quero Trabalahr como Programador
+😊 -- 23 Anos
+👨‍🎓 -- Graduando Análise e Desevolvimento de Sistemas
 
