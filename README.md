@@ -1,4 +1,4 @@
-Oiee, Sou o Luiz Carlos
+<h1 >Olá, Sou Luiz Carlos </h1>
 
 📚 -- Estudando Front-End
 
@@ -21,6 +21,7 @@ Oiee, Sou o Luiz Carlos
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<a href="https://picasion.com/" loop><img align="right" loop src="https://i.picasion.com/pic92/fb3545bead18eed42b467b7bbffa1f0f.gif" autoplay width="100" height="100" border="0" alt="https://picasion.com/" /></a>
 
 ##
 
