@@ -2,7 +2,7 @@
 
 📚 -- Estudando Front-End
 
-💼 -- Quero Trabalahr como Programador
+💼 -- Quero Trabalhar como Programador
 
 😊 -- 23 Anos
 
