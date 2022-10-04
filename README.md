@@ -11,9 +11,10 @@
 
 <div align="center">
   <a href="https://github.com/LuizCarlos98">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=LuizCarlos98&show_icons=true&theme=radical&include_all_commits=true&count_public=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizCarlos98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/LuizCarlos98">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCarlos98&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizCarlos98&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 </div>
 
 <div style="display: inline_block"><br>
